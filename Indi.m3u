@@ -979,3 +979,142 @@ http://173.225.32.123/UTV-2362/index.m3u8
 https://desiplaylive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-240962/playlist.m3u8
 "#EXTINF:-1 ,Bollywood Hungama"
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-entertainment-hd.png"group-title="HD;Entertainment",Sony Entertainment HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-entertainment-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/colors-hd.jpg"group-title="HD;Entertainment",Colors HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/colors-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-tv-hd.png"group-title="HD;Entertainment",Zee TV HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-tv-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-plus-hd.jpg"group-title="HD;Entertainment",Star Plus HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-plus-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/and-tv-hd.jpg"group-title="HD;Entertainment",And TV HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/and-tv-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-bharat-hd.jpg"group-title="HD;Entertainment",Star Bharat HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-bharat-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-sab-hd.png"group-title="HD;Entertainment",Sony Sab HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-sab-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-cafe-hd.jpg"group-title="HD;Entertainment",Zee Cafe HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-cafe-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/colors-infinity-hd.jpg"group-title="HD;Entertainment",COLORS INFINITY HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/colors-infinity-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/fox-liife-hd.jpg"group-title="HD;Entertainment",Fox Life HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/fox-liife-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/disney-international-hd.jpg"group-title="HD;Entertainment",Disney International HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/disney-international-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-plus.png"group-title="Entertainment",Star Plus
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-plus/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-bharat.jpg"group-title="Entertainment",Star Bharat
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-bharat/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/comedy-central.jpg"group-title="Entertainment",Comedy Central
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/comedy-central/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/colors-infinity.png"group-title="Entertainment",Colors Infinity
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/colors-infinity/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/colors-sd.png"group-title="Entertainment",Colors SD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/colors-sd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-entertainment.jpg"group-title="Entertainment",Sony Entertainment SD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-entertainment/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-sab.jpg"group-title="Entertainment",Sab TV
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-sab/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-pal.jpg"group-title="Entertainment",Sony Pal
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-pal/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-tv.png"group-title="Entertainment",Zee Anmol
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-tv/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/dd-bharati.jpg"group-title="Entertainment",DD Bharati
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/dd-bharati/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/rishtey.jpg"group-title="Entertainment",Rishtey
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/rishtey/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-movies-hd.png"group-title="HD;Movies",Star Movies HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-movies-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-movies-select-hd.png"group-title="HD;Movies",Star Movies Select HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-movies-select-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max-hd.png"group-title="HD;Movies",Sony Max HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-max-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/cineplex-hd.jpg"group-title="HD;Movies",Colors Cineplex HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/cineplex-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/and-pictures-hd.jpg"group-title="HD;Movies",And Pictures HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/and-pictures-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold-hd.jpg"group-title="HD;Movies",Star Gold HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-gold-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-cinema-hd.jpg"group-title="HD;Movies",Zee Cinema HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-cinema-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold-select-hd.jpg"group-title="HD;Movies",Star Gold Select HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-gold-select-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/lotus-macau-hd.jpg"group-title="HD;Movies",Lotus Macau HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/lotus-macau-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/cgtn-hd.png"group-title="News",CGTN
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/cgtn-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/bbc-news.png"group-title="News",BBC News
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/bbc-news/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/cnn.png"group-title="News",CNN
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/cnn/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/euro-news-english.png"group-title="News",Euro News English
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/euro-news-english/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/aajtak.jpg"group-title="News",Aajtak
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/aajtak/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/news-18.jpg"group-title="News",News 18
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/news-18/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-news.jpg"group-title="News",Zee News
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-news/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-business.jpg"group-title="News",Zee Business
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-business/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-movies.jpg"group-title="Movies",Star Movies
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-movies/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold.png"group-title="Movies",Star Gold
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-gold/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max.png"group-title="Movies",Sony Max
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-max/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-cinema.png"group-title="Movies",Zee Bollywood
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-cinema/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/movies-ok.jpg"group-title="Movies",Star Gold 2
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/movies-ok/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max-2.png"group-title="Movies",Sony Max 2
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-max-2/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold-select.jpg"group-title="Movies",Star Gold Select
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-gold-select/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-action.jpg"group-title="Movies",Zee Action
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-action/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-pix.png"group-title="Movies",Sony Pix
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-pix/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-utsav-movies.jpg"group-title="Movies",Star Utsav Movies
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-utsav-movies/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/living-foodz.png"group-title="Movies",Zee Classic
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/living-foodz/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/mtv-beats-hd.jpg"group-title="Music",MTV Beats HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/mtv-beats-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/vh1.jpg"group-title="Music",VH1
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/vh1/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/mtv.jpg"group-title="Music",MTV
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/mtv/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zing.jpg"group-title="Music",Zing
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zing/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/nat-geo-wild-hd.jpg"group-title="HD;Adventures",Nat Geo Wild HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/nat-geo-wild-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/animal-planet-hd.jpg"group-title="HD;Adventures",Animal Planet HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/animal-planet-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/national-geographic-channel-hd.jpg"group-title="HD;Adventures",National Geographic Channel HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/national-geographic-channel-hd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-hd-world.jpg"group-title="HD;Adventures",Discovery HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/discovery-hd-world/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/tlc-hd-world.jpg"group-title="HD;Adventures",TLC HD World
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/tlc-hd-world/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-bbc-earth-1.jpg"group-title="HD;Adventures",Sony BBC Earth HD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-bbc-earth-1/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/cgtn-documentary.png"group-title="Adventures",CGTN Documentary
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/cgtn-documentary/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/national-geographic-channel-sd.png"group-title="Adventures",National Geographic Channel  SD
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/national-geographic-channel-sd/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/history-tv-18.png"group-title="Adventures",History TV 18
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/history-tv-18/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-bbc-earth.jpg"group-title="Adventures",Sony BBC Earth
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-bbc-earth/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-turbo.jpg"group-title="Adventures",Discovery Turbo
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/discovery-turbo/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-channel.jpg"group-title="Adventures",Discovery Channel
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/discovery-channel/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/tlc-india.jpg"group-title="Adventures",TLC
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/tlc-india/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/animal-planet.jpg"group-title="Adventures",Animal Planet
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/animal-planet/index.ts
+#EXTINF:-1 tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-science.jpg"group-title="Adventures",Discovery Science
+https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/discovery-science/index.ts
+
