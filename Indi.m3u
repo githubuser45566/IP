@@ -7,7 +7,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_20848
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi Music",9XM Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",Aaj ki Khabar
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Aaj ki Khabar
 https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi News",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -401,7 +401,7 @@ https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-act
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-tv/index.ts
 #EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-cinema.png" group-title="Hindi Movies",Zee Bollywood
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-cinema/index.ts
-#EXTINF:-1  tvg-logo="" group-title="Hindi Business",ZEE BUSINESS
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-business.jpg" group-title="Hindi Business",ZEE BUSINESS
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-business.jpg" group-title="Hindi Business",Zee Business
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-business/index.ts
@@ -413,43 +413,25 @@ http://170.254.18.107/ZEECINEMA/index.m3u8
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/living-foodz/index.ts
 #EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee Delhi NCR Haryana (720p) [Not 24/7]"
 https://ythls.armelin.one/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee Hindustan"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee Bharat
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeebharat
 #EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee Madhya Pradesh Chhattisgarh"
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeemadhyapradeshchattisgarh
-#EXTINF:-1  tvg-logo="" group-title="Hindi News",ZEE News
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-news.jpg" group-title="Hindi News",ZEE News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-news.jpg" group-title="Hindi News",Zee News
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-news/index.ts
-#EXTINF:-1  tvg-logo="" group-title="Hindi News",ZEE News"
-https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee News"
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-news.jpg" group-title="Hindi News",Zee News
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeenews
-#EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee Rajasthan (720p)"
-https://d3596fuob34tr0.cloudfront.net/out/v1/dc9cd568b52340d9a694877ad4b103a8/index.m3u8
 #EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-tv-hd.png" group-title="Hindi Entertainment",Zee TV HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-tv-hd/index.ts
-#EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee Uttar Pradesh/Uttarakhand (720p)"
-https://livetv-channels.b-cdn.net/8076/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Zeecafe HD
+#EXTINF:-1  tvg-logo="" group-title="English Movies",Cinemax
 http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Zeecafe HD"
-http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",ZeeCinema HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-cinema-hd.jpg" group-title="Hindi Movies",ZeeCinema HD
 https://www.bdtubelive.xyz/new.m3u8?id=151
-#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",ZeeCinema HD"
-https://www.bdtubelive.xyz/new.m3u8?id=151
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zing.jpg" group-title="Music",Zing
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zing.jpg" group-title="Hindi Music",Zing
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zing/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Zing! (576p)"
-http://183.89.246.119:8881/play/a09a/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Zoom (1080p)"
-http://103.81.104.118/hls/stream8.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",ZOOM TV
+#EXTINF:-1  tvg-logo="" group-title="Hindi Entertainment",ZOOM TV
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",ZOOM TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",ZOOM TV"
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",ZOOM TV"
+#EXTINF:-1  tvg-logo="" group-title="Hindi Entertainment",ZOOM TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
