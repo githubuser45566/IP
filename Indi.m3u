@@ -11,11 +11,11 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi News",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",AajTak
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",AajTak
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/aajtak.jpg" group-title="Hindi News",Aajtak
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/aajtak/index.ts
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",AajTak Prime
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",AajTak Prime
 https://feeds.intoday.in/aajtak/api/atprime/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi News",ABP Ganga (1080p)
 https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
@@ -23,7 +23,7 @@ https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="English Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Amar Ujala (720p) [Not 24/7]"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Amar Ujala (720p) [Not 24/7]"
 https://ythls.armelin.one/channel/UCP_wvXToU5ohFLbTAkatvsw.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC East
 http://170.254.18.106/AMC/mono.m3u8
@@ -37,32 +37,26 @@ https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/animal-
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/animal-planet-hd/index.ts
 #EXTINF:-1  tvg-logo="" group-title="",AXN
 http://170.254.18.106/AXN/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",B4U Kadak (576p) [Not 24/7]"
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="Hindi Movies",B4U Movies IN
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="" group-title="Hindi Movies",B4U Movies India (576p)"
 http://183.89.246.119:8881/play/a08n/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="hindi movies",B4U Movies"
 https://www.bdtubelive.xyz/new.m3u8?id=141
-#EXTINF:-1  tvg-logo="" group-title="",Bansal News (1080p) [Not 24/7]"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Bansal News (1080p) [Not 24/7]"
 https://ythls.armelin.one/channel/UCL_3_9PhDyZXu1oexm8gtFQ.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi News",Bharat 24 (1080p) [Not 24/7]"
 https://ythls.armelin.one/channel/UCCQmi1Bd-_tHRm6M2uPlGUA.m3u8
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",Bharat Express
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Bharat Express
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi News",Bharat Samachar TV (360p)"
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",Bollywood Classic
+#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",Bollywood HD
+#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi Movies",Bollywood HD (1080p)"
 https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Bollywood Hungama
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Bollywood Prime
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi Kids",Cartoon Network
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi Kids",Cartoon Network (1080p)
@@ -77,7 +71,7 @@ https://ythls.armelin.one/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/cineplex-hd/index.ts
 #EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/colors-hd.jpg" group-title="Hindi Entertainment",Colors HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/colors-hd/index.ts
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",Colors HD Stream
+#EXTINF:-1  tvg-logo="" group-title="Hindi Entertainment",Colors HD Stream
 https://www.bdtubelive.xyz/new.m3u8?id=109
 #EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/colors-infinity.png" group-title="English Entertainment",Colors Infinity
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/colors-infinity/index.ts
@@ -95,9 +89,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddbharti/default/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi News",DD News (1080p)
 https://hls.media.nic.in/hls/live/ddnews/ddnews.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",DD Sports (576p)"
+#EXTINF:-1  tvg-logo="" group-title="Sports",DD Sports (576p)"
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",DesiMovies
+#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",DesiMovies
 https://desiplaylive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-240962/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",Dhamaal (1080p) [Not 24/7]"
 https://live.hungama.com/linear/dhamaal/playlist.m3u8
@@ -107,27 +101,25 @@ https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",Dil Se (360p) [Not 24/7]"
 https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-channel.jpg" group-title="Adventures",Discovery Channel
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-channel.jpg" group-title="English Information",Discovery Channel
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/discovery-channel/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Discovery Channel - Hindi
+#EXTINF:-1  tvg-logo="" group-title="Hindi information",Discovery Channel - Hindi
 https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-hd-world.jpg" group-title="HD;Adventures",Discovery HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-hd-world.jpg" group-title="English Information",Discovery HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/discovery-hd-world/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-science.jpg" group-title="Adventures",Discovery Science
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-science.jpg" group-title="English Information",Discovery Science
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/discovery-science/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-turbo.jpg" group-title="Adventures",Discovery Turbo
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/discovery-turbo.jpg" group-title="English Information",Discovery Turbo
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/discovery-turbo/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Discovery US
+#EXTINF:-1  tvg-logo="" group-title="English Information",Discovery US
 http://170.254.18.106/DISCOVERY/index.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/disney-international-hd.jpg" group-title="Hindi Entertainment",Disney International HD
-https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/disney-international-hd/index.ts
 #EXTINF:-1  tvg-logo="" group-title="",DreamWorks
 https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",DreamWorks2
 https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",E24
+#EXTINF:-1  tvg-logo="" group-title="Hindi Music",E24
 http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",EPIC
+#EXTINF:-1  tvg-logo="" group-title="Hindi Information",EPIC
 https://epiconvh.s.llnwi.net/epic/master.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi Business",ET NOW SWADESH"
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
@@ -191,9 +183,7 @@ https://knews.livebox.co.in/youtubehls/live.m3u8
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/lotus-macau-hd/index.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="English Information",Love nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Movie Sphere
-https://moviesphere-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",MoviesNowHD
+#EXTINF:-1  tvg-logo="" group-title="English Movies",MoviesNowHD
 http://195.26.87.217/live.ts?channelId=162&uid=7438&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/mtv.jpg" group-title="Music",MTV
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/mtv/index.ts
@@ -253,421 +243,201 @@ https://ythls.armelin.one/channel/UCWk-7Yosyvzln9ZzJg8BvVg.m3u8
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi Kids",Pogo"
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",RCM
+#EXTINF:-1  tvg-logo="" group-title="English Movies",RCM
 https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Real Madrid TV"
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Republic Bharat
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Republic Bharat
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Republic Bharat (360p) [Geo-blocked]"
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Republic Bharat"
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Republic TV
+#EXTINF:-1  tvg-logo="" group-title="English News",Republic TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Republic TV"
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/rishtey.jpg" group-title="Entertainment",Rishtey
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/rishtey.jpg" group-title="Hindi Entertainment",Rishtey
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/rishtey/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",RTNEWS GLOBAL"
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",RTNEWS USA"
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",RTV"
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",SA TV"
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Saam TV (720p) [Not 24/7]"
-https://ythls.armelin.one/channel/UC6cxTsUnfSZrj96KNHhRTHQ.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-sab.jpg" group-title="Entertainment",Sab TV
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-sab.jpg" group-title="Hindi Entertainment",Sab TV
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-sab/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Sadhna (720p)"
-https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sadhna Plus News (720p)"
-https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Saga Music"
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Samachar Plus (1080p)"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Samachar Plus (1080p)"
 https://samacharplus.livebox.co.in/samacharplushls/live.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Samachar24
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Samachar24
 https://legitpro.co.in/hls5/samachar24/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Samachar24"
-https://legitpro.co.in/hls5/samachar24/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sansad TV (1080p) [Not 24/7]"
+#EXTINF:-1  tvg-logo="" group-title="Legislative",Sansad TV (1080p) [Not 24/7]"
 https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sanshad TV HD"
+#EXTINF:-1  tvg-logo="" group-title="Legislative",Sanshad TV HD"
 https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sanskar TV (1080p)"
-https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sanskar UK (1080p)"
-https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sanskar USA (1080p)"
-https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sanskar Web TV (1080p)"
-https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Satsang TV (1080p)"
-https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Satsang Web TV (1080p)"
-https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",SATV"
-http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi",Shema Bollywood
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Shema Bollywood"
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Shemaroo Bollywood
+#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",Shemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Shemaroo Bollywood"
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Shemaroo Bollywood"
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Shemaroo Filmigaane
+#EXTINF:-1  tvg-logo="" group-title="Hindi Music",Shemaroo Filmigaane
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Shemaroo Filmigaane"
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Shemaroo TV"
+#EXTINF:-1  tvg-logo="" group-title="Hindi Entertainment",Shemaroo TV"
 https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemarootv
-#EXTINF:-1  tvg-logo="" group-title="",Shubh TV (1080p)"
-https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Shubhsandesh (720p) [Not 24/7]"
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Somoy"
-https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Somoy"
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Songdew TV (396p)"
-https://yupplivefragcp3.yuppcdn.net/260423/smil:songdew.smil/index.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-bbc-earth.jpg" group-title="Adventures",Sony BBC Earth
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-bbc-earth.jpg" group-title="English Entertainment",Sony BBC Earth
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-bbc-earth/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-bbc-earth-1.jpg" group-title="HD;Adventures",Sony BBC Earth HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-bbc-earth-1.jpg" group-title="English Entertainment",Sony BBC Earth HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-bbc-earth-1/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Sony BBC Earth HD (1080p)"
-http://103.81.104.118/hls/stream5.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-entertainment-hd.png" group-title="HD;Entertainment",Sony Entertainment HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-entertainment-hd.png" group-title="Hindi Entertainment",Sony Entertainment HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-entertainment-hd/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-entertainment.jpg" group-title="Entertainment",Sony Entertainment SD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-entertainment.jpg" group-title="Hindi Entertainment",Sony Entertainment SD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-entertainment/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Sony Entertainment Television Asia HD (1080p)"
+#EXTINF:-1  tvg-logo="" group-title="Hindi Entertainent",Sony Entertainment Television Asia HD (1080p)"
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",SONY HD
+#EXTINF:-1  tvg-logo="" group-title="English Movies",RCM
 https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sony kal
+#EXTINF:-1  tvg-logo="" group-title="Hindi Entertainment",Sony kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sony Kal (1080p)"
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sony kal"
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max.png" group-title="Movies",Sony Max
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max.png" group-title="Hindi Movies",Sony Max
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-max/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max-2.png" group-title="Movies",Sony Max 2
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max-2.png" group-title="Hindi Movies",Sony Max 2
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-max-2/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Sony Max 2
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max-2.png" group-title="Hindi Movies",Sony Max 2
 http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1  tvg-logo="" group-title="",Sony Max 2 (1080p)"
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max-2.png" group-title="Hindi Movies",Sony Max 2 (1080p)"
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",SONY MAX HD
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max-hd.png" group-title="HD;Movies",Sony Max HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max-hd.png" group-title="Hindi Movies",Sony Max HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-max-hd/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Sony MAX HD (1080p)"
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-max.png" group-title="Hindi Movies",Sony MAX HD (1080p)"
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",SONY MAX HD"
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-pal.jpg" group-title="Entertainment",Sony Pal
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-pal.jpg" group-title="Hindi Entertainment",Sony Pal
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-pal/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Sony Pal (1080p)"
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-pal.jpg" group-title="Hindi Entertainent",Sony Pal (1080p)"
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-pix.png" group-title="Movies",Sony Pix
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-pix.png" group-title="English Movies",Sony Pix
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-pix/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Sony Pix (1080p)"
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-pix.png" group-title="English Movies",Sony Pix (1080p)"
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sony SAB (1080p)"
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-sab-hd.png" group-title="Hindi Entertainment",Sony SAB (1080p)"
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sony SAB HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-sab-hd.png" group-title="Hindi Entertainment",Sony SAB HD
 https://www.bdtubelive.xyz/new.m3u8?id=115
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-sab-hd.png" group-title="HD;Entertainment",Sony Sab HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/sony-sab-hd.png" group-title="Hindi Entertainment",Sony Sab HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/sony-sab-hd/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Sony SAB HD"
-https://www.bdtubelive.xyz/new.m3u8?id=115
-#EXTINF:-1  tvg-logo="" group-title="",Sony Sports Ten 3 HD (1080p)"
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",SONY TV
+#EXTINF:-1  tvg-logo="" group-title="Hindi Entertainment",SONY TV
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",SONY TV"
-http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sony Wah (1080p)"
+#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",Sony Wah (1080p)"
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sony Yay! (1080p)"
+#EXTINF:-1  tvg-logo="" group-title="Hindi Kids",Sony Yay! (1080p)"
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",South Station
-https://i.mjh.nz/SamsungTVPlus/INBA51000038B.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",South Station"
-https://i.mjh.nz/SamsungTVPlus/INBA51000038B.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sports TV 1"MU TV"
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",STAR
+#EXTINF:-1  tvg-logo="" group-title="English Movies",STAR
 http://170.254.18.106/STAR/index.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-bharat.jpg" group-title="Entertainment",Star Bharat
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-bharat.jpg" group-title="Hindi Entertainment",Star Bharat
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-bharat/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-bharat-hd.jpg" group-title="HD;Entertainment",Star Bharat HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-bharat-hd.jpg" group-title="Hindi Entertainment",Star Bharat HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-bharat-hd/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold.png" group-title="Movies",Star Gold
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold.png" group-title="Hindi Movies",Star Gold
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-gold/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/movies-ok.jpg" group-title="Movies",Star Gold 2
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/movies-ok.jpg" group-title="Hindi Movies",Star Gold 2
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/movies-ok/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold-hd.jpg" group-title="HD;Movies",Star Gold HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold-hd.jpg" group-title="Hindi Movies",Star Gold HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-gold-hd/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Star Gold HD (1080p)"
-http://103.81.104.118/hls/stream19.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold-select.jpg" group-title="Movies",Star Gold Select
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold-select.jpg" group-title="Hindi Movies",Star Gold Select
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-gold-select/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold-select-hd.jpg" group-title="HD;Movies",Star Gold Select HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-gold-select-hd.jpg" group-title="Hindi Movies",Star Gold Select HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-gold-select-hd/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Star Jalsha BACKUP"
-http://tv.cloudcdn.me/live.ts?channelId=116592&uid=9592&deviceMac=00:1A:79:82:85:F0
-#EXTINF:-1  tvg-logo="" group-title="",STAR JALSHA HD"
-http://sansat.net:88/02029761595924/9d089925dc60a821/95769
-#EXTINF:-1  tvg-logo="" group-title="",Star jalsha"
-http://tv.cloudcdn.me/live.ts?channelId=116592&uid=9592&deviceMac=00:1A:79:82:85:F0
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-movies.jpg" group-title="Movies",Star Movies
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-movies.jpg" group-title="English Movies",Star Movies
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-movies/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-movies-hd.png" group-title="HD;Movies",Star Movies HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-movies-hd.png" group-title="English Movies",Star Movies HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-movies-hd/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Star Movies HD
-http://195.26.87.217/live.ts?channelId=198&uid=7438&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1  tvg-logo="" group-title="",Star Movies HD"
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-movies-hd.png" group-title="English Movies",Star Movies HD
 http://195.26.87.217/live.ts?channelId=198&uid=7438&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1  tvg-logo="" group-title="",Star Movies India (576p) [Not 24/7]"
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-movies-select-hd.png" group-title="HD;Movies",Star Movies Select HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-movies-select-hd.png" group-title="English Movies",Star Movies Select HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-movies-select-hd/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Star Movies select HD
+#EXTINF:-1  tvg-logo="" group-title="English Movies",Star Movies select HD"
 http://195.26.87.217/live.ts?channelId=199&uid=7438&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1  tvg-logo="" group-title="",Star Movies select HD"
-http://195.26.87.217/live.ts?channelId=199&uid=7438&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-plus.png" group-title="Entertainment",Star Plus
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-plus.png" group-title="Hindi Entertainment",Star Plus
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-plus/index.ts
 #EXTINF:-1  tvg-logo="" group-title="",STAR Plus HD
 http://103.120.172.74:4300
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-plus-hd.jpg" group-title="HD;Entertainment",Star Plus HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-plus-hd.jpg" group-title="Hindi Entertainment",Star Plus HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-plus-hd/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",STAR Plus HD"
-http://103.120.172.74:4300
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-utsav-movies.jpg" group-title="Movies",Star Utsav Movies
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/star-utsav-movies.jpg" group-title="Hindi Movies",Star Utsav Movies
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/star-utsav-movies/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",STAR"
+#EXTINF:-1  tvg-logo="" group-title="English Movies",STAR Channel
 http://170.254.18.106/STAR/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",StarBharat HD
+#EXTINF:-1  tvg-logo="" group-title="Hindi Entertainment",StarBharat HD
 http://103.120.172.74:5200
-#EXTINF:-1  tvg-logo="" group-title="",StarBharat HD
+#EXTINF:-1  tvg-logo="" group-title="Hindi Entertainment",StarBharat HD
 https://www.bdtubelive.xyz/new.m3u8?id=119
-#EXTINF:-1  tvg-logo="" group-title="",StarBharat HD"
-https://www.bdtubelive.xyz/new.m3u8?id=119
-#EXTINF:-1  tvg-logo="" group-title="",StarBharat HD"
-http://103.120.172.74:5200
-#EXTINF:-1  tvg-logo="" group-title="",Steelbird Music (720p) [Not 24/7]"
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",STV Haryana News (720p) [Not 24/7]"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",STV Haryana News (720p) [Not 24/7]"
 https://ythls.armelin.one/channel/UC6Hd69A3RKgu6Dj52H53ZDw.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Sudarshan News (720p)"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Sudarshan News (720p)"
 https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",SVBC 4 (1080p)"
-https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Swaraj Express (720p) [Not 24/7]"
-https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Taaza TV (1080p)"
-https://stream.playbox.co.in:19360/taaza/taaza.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TAG TV (1080p) [Not 24/7]"
-https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TAG TV (1080p) [Not 24/7]"
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TBN 24 USA"
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TBS
-https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TBS"
-https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Tennis Channel"
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-tennischannel-samsungin/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Tennis Channel"
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Test sports 4k"
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Test sports2 4k"
-https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Test USA Stream1
-https://i.mjh.nz/SamsungTVPlus/USBD300006A6.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Test USA Stream1"
-https://i.mjh.nz/SamsungTVPlus/USBD300006A6.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Test USA Stream2
-https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Test USA Stream2"
-https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Test3"
+#EXTINF:-1  tvg-logo="" group-title="English Movies",Test3"
 http://170.254.18.106/VH1/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",TEZ News
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",TEZ News
 https://feeds.intoday.in/aajtak/api/tez/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TEZ News"
-https://feeds.intoday.in/aajtak/api/tez/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",The BAYWATCH
+#EXTINF:-1  tvg-logo="" group-title="English Entertainment",The BAYWATCH
 https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",The BAYWATCH"
-https://d22ljxpuae2sin.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch-Canada-prod/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",The First
-https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",The First"
-https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",The Grid (EU)"
-https://bec-thegrid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",The Movie Club
+#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",The Movie Club
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",The Movie Club"
-https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",The Q
+#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",The Q"
-https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Times Now [Geo-blocked]"
-https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/tlc-india.jpg" group-title="Adventures",TLC
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/tlc-india.jpg" group-title="Hindi Information",TLC
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/tlc-india/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",TLC HD
+#EXTINF:-1  tvg-logo="" group-title="English Movies",Rakuten TV
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/tlc-hd-world.jpg" group-title="HD;Adventures",TLC HD World
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/tlc-hd-world.jpg" group-title="English Information",TLC HD World
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/tlc-hd-world/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",TLC HD"
-https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TLC-eng HD
+#EXTINF:-1  tvg-logo="" group-title="Hindi Information",TLC-eng HD
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TLC-eng HD"
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TNT
-http://170.254.18.106/TNT/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TNT"
-http://170.254.18.106/TNT/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TODAY-allday USA"
-https://i.mjh.nz/SamsungTVPlus/USBB32000251N.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Today's Homeowner (EU)"
-https://janson-todayshomeowner-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Total Bhakti (1080p)"
-https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Trace Sports"
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Travel 4K"
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Travel XP"
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TravelXP hindi HD"
-https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TRT World"
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TRTWorld"
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TV 100 (720p) [Not 24/7]"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",TV 100 (720p) [Not 24/7]"
 https://ythls.armelin.one/channel/UCpLM_4NUnBYq0h3gruX0qQw.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TV5 Monde"
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",TV9 Bharatvarsh (720p)"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",TV9 Bharatvarsh (720p)"
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Utsav Plus HD
-https://www.bdtubelive.xyz/new.m3u8?id=105
-#EXTINF:-1  tvg-logo="" group-title="",Utsav Plus HD"
+#EXTINF:-1  tvg-logo="" group-title="Hindi Entertainment",Utsav Plus HD
 https://www.bdtubelive.xyz/new.m3u8?id=105
 #EXTINF:-1  tvg-logo="" group-title="",UTV Test
 http://173.225.32.123/UTV-2362/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",UTV Test"
-http://173.225.32.123/UTV-2362/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Vevo pop music
-https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Vevo pop music"
-https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/vh1.jpg" group-title="Music",VH1
-https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/vh1/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",VH1
-http://170.254.18.106/VH1/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Weatherspy"
-https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Whoa That Was Wild (EU)"
-https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",Wild Earth
+#EXTINF:-1  tvg-logo="" group-title="English Information",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Wild Earth
+#EXTINF:-1  tvg-logo="" group-title="English Information",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Wild Earth"
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Wild Earth"
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Xplore
+#EXTINF:-1  tvg-logo="" group-title="English Information",Xplore
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-xplore-samsungin/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Xplore"
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungin-xplore-samsungin/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",YAHOO FIN NEWS"
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",YAHOO NEWS"
-https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",YRF Music HD
+#EXTINF:-1  tvg-logo="" group-title="Hindi Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",YRF Music HD"
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Zee 24 Ghanta"
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-action.jpg" group-title="Movies",Zee Action
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-action.jpg" group-title="Hindi Movies",Zee Action
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-action/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Zee Aflam"
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-tv.png" group-title="Entertainment",Zee Anmol
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-tv.png" group-title="Hindi Entertainment",Zee Anmol
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-tv/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",ZEE Bangla 4k"
-http://tv.cloudcdn.me/live.ts?channelId=120&uid=9592&deviceMac=00:1A:79:82:85:F0
-#EXTINF:-1  tvg-logo="" group-title="",ZEE BANGLA"
-http://sansat.net:88/02029761595924/9d089925dc60a821/100716
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-cinema.png" group-title="Movies",Zee Bollywood
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-cinema.png" group-title="Hindi Movies",Zee Bollywood
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-cinema/index.ts
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",ZEE BUSINESS
+#EXTINF:-1  tvg-logo="" group-title="Hindi Business",ZEE BUSINESS
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-business.jpg" group-title="News",Zee Business
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-business.jpg" group-title="Hindi Business",Zee Business
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-business/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",ZEE BUSINESS"
-https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-cafe-hd.jpg" group-title="HD;Entertainment",Zee Cafe HD
-https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-cafe-hd/index.ts
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-cinema-hd.jpg" group-title="HD;Movies",Zee Cinema HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-cinema-hd.jpg" group-title="Hindi Movies",Zee Cinema HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-cinema-hd/index.ts
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png" group-title="Hindi Movies",Zee Cinema UK
 http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Zee Cinema UK"
-http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/living-foodz.png" group-title="Movies",Zee Classic
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/living-foodz.png" group-title="Hindi Movies",Zee Classic
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/living-foodz/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Zee Delhi NCR Haryana (720p) [Not 24/7]"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee Delhi NCR Haryana (720p) [Not 24/7]"
 https://ythls.armelin.one/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Zee Hindustan"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee Hindustan"
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeebharat
-#EXTINF:-1  tvg-logo="" group-title="",Zee Madhya Pradesh Chhattisgarh"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee Madhya Pradesh Chhattisgarh"
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeemadhyapradeshchattisgarh
-#EXTINF:-1  tvg-logo="" group-title=" group-title=",ZEE News
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",ZEE News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-news.jpg" group-title="News",Zee News
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-news.jpg" group-title="Hindi News",Zee News
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-news/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",ZEE News"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",ZEE News"
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",Zee News"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee News"
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeenews
-#EXTINF:-1  tvg-logo="" group-title="",Zee Rajasthan (720p)"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee Rajasthan (720p)"
 https://d3596fuob34tr0.cloudfront.net/out/v1/dc9cd568b52340d9a694877ad4b103a8/index.m3u8
-#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-tv-hd.png" group-title="HD;Entertainment",Zee TV HD
+#EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zee-tv-hd.png" group-title="Hindi Entertainment",Zee TV HD
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zee-tv-hd/index.ts
-#EXTINF:-1  tvg-logo="" group-title="",Zee Uttar Pradesh/Uttarakhand (720p)"
+#EXTINF:-1  tvg-logo="" group-title="Hindi News",Zee Uttar Pradesh/Uttarakhand (720p)"
 https://livetv-channels.b-cdn.net/8076/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",Zeecafe HD
 http://170.254.18.106/CINEMAX/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="",Zeecafe HD"
 http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1  tvg-logo="" group-title="",ZeeCinema HD
+#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",ZeeCinema HD
 https://www.bdtubelive.xyz/new.m3u8?id=151
-#EXTINF:-1  tvg-logo="" group-title="",ZeeCinema HD"
+#EXTINF:-1  tvg-logo="" group-title="Hindi Movies",ZeeCinema HD"
 https://www.bdtubelive.xyz/new.m3u8?id=151
 #EXTINF:-1  tvg-logo="https://ardinesh-nettv.puspas.com.np/smart/ardinesh/logos/zing.jpg" group-title="Music",Zing
 https://ardinesh-nettv.puspas.com.np/auth4623jFtmG8/live/nettv-universal/zing/index.ts
