@@ -1,5 +1,4 @@
-﻿#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1  tvg-logo="" group-title="Hindi News",1st News - Hindi
+﻿#EXTINF:-1  tvg-logo="" group-title="Hindi News",1st News - Hindi
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Hindi Music",9x Jalwa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8
